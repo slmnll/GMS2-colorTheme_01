@@ -4,7 +4,7 @@ A color theme for GMS2's code editor inspired by "One Dark".
 ![ScreenShot](https://github.com/slmnll/GMS2-colorTheme_01/blob/master/ScreenShot.jpg)
 
 # Installation
-Copy file to:
+Copy *local_settings.json* to:
 
 **Windows :** %appdata%\GameMakerStudio2\\<username\>\local_settings.json
 
